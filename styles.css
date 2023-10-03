@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins";
+  margin: 1rem;
+  background-color: #e4fbfa;
+  color: #010908;
+}
+
+section {
+  margin: 1rem;
+}
+
+div {
+  padding-bottom: 2rem;
+}
+
+h1 a {
+  color: #010908;
+}
+
+a {
+  color: #c9671d;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 2rem;
+  padding-bottom: 1rem;
+}
+
+p {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+img {
+  width: 600px;
+}
+
+.header {
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+  margin: 1rem;
+  justify-content: center;
+}
+
+.landing-text {
+  text-align: center;
+  padding: 3rem;
+}
+
+.landing-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  padding: 0 5rem 5rem 5rem;
+}
+
+.recipe-name {
+  padding-top: 1rem;
+}
+
+.additional-steps {
+  padding-bottom: 1rem;
+}
+
+.list {
+  padding: 1.5rem;
+  padding-top: 0.5rem;
+}
+
+footer {
+  text-align: center;
+}
