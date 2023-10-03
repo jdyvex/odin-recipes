@@ -5,3 +5,4 @@ Basic recipe website built in accordance to TheOdinProject.
 Skills used:
 
 - HTML
+- Minimal CSS
